@@ -1,3 +1,7 @@
+Diego Alejandro Ramirez Garrido - d.ramirezg@uniandes.edu.co -  202013233
+Sebastián Murcia Gómez - s.murciag@uniandes.edu.co - 202015229
+
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
